@@ -1,0 +1,33 @@
+[
+    {
+        "titulo": "Mi estado",
+        "descripcion": "Añade una actualizacion",
+        "imagen": "https://image.flaticon.com/icons/png/512/88/88271.png"
+    },
+    {
+        "titulo": "Aquiles Castro",
+        "descripcion": "Hoy 3:36 p.m.",
+        "imagen": "https://image.flaticon.com/icons/png/512/88/88271.png"
+    },
+    {
+        "titulo": "Andres Manuel Lopez Obrador",
+        "descripcion": "Hoy 10:24 a.m.",
+        "imagen": "https://image.flaticon.com/icons/png/512/88/88271.png"
+    },
+    {
+        "titulo": "Fulanito Perez Gonzalez",
+        "descripcion": "Ayer 10:32 p.m.",
+        "imagen": "https://image.flaticon.com/icons/png/512/88/88271.png"
+    },
+    {
+        "titulo": "Aquiles Bailo Gonzalez",
+        "descripcion": "Ayer 9:42 p.m.",
+        "imagen": "https://image.flaticon.com/icons/png/512/88/88271.png"
+    },
+    {
+        "titulo": "Elvis Cocho",
+        "descripcion": "Ayer 7:05 p.m.",
+        "imagen": "https://image.flaticon.com/icons/png/512/88/88271.png"
+    }
+
+]
